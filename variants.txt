@@ -1,0 +1,10 @@
+in order to publish our results there are multiple posibilities:
+- Telegram bot
+    (Andrei)
+- Slack bot
+    https://api.slack.com/messaging/sending
+- autosent email
+    https://www.freecodecamp.org/news/send-emails-using-code-4fcea9df63f/
+- twitter post
+    https://www.youtube.com/watch?v=dvAurfBB6Jk
+    https://github.com/codingforentrepreneurs/30-Days-of-Python/tree/master/tutorial-reference/Day%2021
